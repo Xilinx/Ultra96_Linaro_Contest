@@ -33,7 +33,7 @@ These files allow you to rebuild the hardware design in the in Xilinx Vivado too
   
   zcu100_96b_sensors_18_1.xdc
   
-  
+The file "Ultra96_Lab_Final.pdf" is a short lab that will help familiarize you with the components in the package you received.
 
 # Conclusion
 So good luck, have fun, and we look forward to seeing your finished project!
