@@ -26,6 +26,15 @@ To learn more about how to use Vivado plus SDK, you should read through the tuto
 
 At Linaro Connect you were also exposed to an environment called SDSOC, where you could write c-code and SDSOC would enable the c-code to be executed in the FPGA gates.  To learn more about that flow, read through the SDSoC Environment Platform Development Guide. https://www.xilinx.com/support/documentation/sw_manuals/xilinx2017_4/ug1146-sdsoc-platform-development.pdf .  SDSoC is useful and powerful and worth understanding, but unfortunately is not available for you to use for the design contest. 
 
+# Additional Files
+These files allow you to rebuild the hardware design in the in Xilinx Vivado tools.
+
+  zcu100_96b_sensors_18_1.tcl
+  
+  zcu100_96b_sensors_18_1.xdc
+  
+  
+
 # Conclusion
 So good luck, have fun, and we look forward to seeing your finished project!
 
