@@ -2,7 +2,7 @@
 
 # Getting Started
 You provided a design idea and we provided an Ultra96 board for you to realize your vision.  
-To connect to your new board, refer to the “Getting Started with Ultra96 for Contest” document. This will get you set up to connect to the board via WIFI using SSID: zzsoc_<mac_id_of the board>.  
+To connect to your new board, refer to the “Getting Started with Ultra96 for Contest” document (above). This will get you set up to connect to the board via WIFI using SSID: zzsoc_<mac_id_of the board>.  
 
 Once connected simply point your browser to 192.168.2.1  At this point you can SSH / VNC in to the board or you can connect a monitor, mouse and keyboard and use Ultra96 like a Raspberry Pi.  If you need a console use the USB port on the Seeed Studio Mezzanine card.   
 
